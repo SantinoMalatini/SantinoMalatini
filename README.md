@@ -1,3 +1,3 @@
-<img src="https://imgur.com/a/UgfeKss.png"/>
+<img src="https://i.imgur.com/6hQh09j.png"/>
 
 ## Hola soy Santino Malatini 👋
