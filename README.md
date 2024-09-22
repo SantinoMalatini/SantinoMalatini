@@ -4,4 +4,4 @@
 
 ### Sobre Mi:
 
-#### → Estudiante de Ciencias de Datos de la Universidad Austral
+#### → Estudiante de Licenciatura en Ciencias de Datos de la Universidad Austral
