@@ -8,6 +8,4 @@
 
 #### → Aprendiendo Python / R 
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![R](https://img.shields.io/badge/R-4.0%2B-blue)
-
 <img src="https://i.imgur.com/3hyzn0c.png" width="1500" height="10"/>
