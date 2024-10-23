@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+soy+Santino+Malatini+_;Estoy+estudiando+Ciencias+de+Datos+_)](https://git.io/typing-svg)
+
 ## Hola a todos 👋
 
 ### Sobre Mí:
