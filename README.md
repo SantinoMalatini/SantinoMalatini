@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/3hyzn0c.png" width="1500" height="10"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Hola a todos 👋
 
@@ -8,4 +8,4 @@
 
 #### → Aprendiendo Python / R 
 
-<img src="https://i.imgur.com/3hyzn0c.png" width="1500" height="10"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
