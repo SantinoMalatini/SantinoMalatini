@@ -36,7 +36,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/santino-malatini-754925334/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  SantinoMalatini-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:SantinoMalatini-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -44,7 +44,7 @@
 
 <li>
 <a href="mailto:santinomalatini@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  santinomalatini-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:santinomalatini-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
