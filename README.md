@@ -19,6 +19,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL%20-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Softwares y Herramientas**:
 
